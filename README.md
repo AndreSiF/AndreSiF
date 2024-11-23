@@ -57,9 +57,9 @@ Meu nome é André da Silva Farias, tenho 22 anos e sou atualmente estudante da 
 ---
 
 <p>
-  <img alt="GitHub Stats" height="250" src="https://github-readme-stats.vercel.app/api?username=AndreSiF&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br">
+    <img align="left" alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=AndreSiF&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br">
 </p>
 <br>
 <p>
-<img alt="GitHub Stats" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSiF&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
+    <img alt="GitHub Stats" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSiF&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
 </p>
